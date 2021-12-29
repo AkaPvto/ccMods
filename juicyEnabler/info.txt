@@ -1,0 +1,11 @@
+{
+	"Name": "Juicy enabler",
+	"ID": "juicyEnabler",
+	"Author": "AkaPvto",
+	"Description": "Now you can plant Juicy Queenbeet, enjoy your extra lumps",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "29/12/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}
