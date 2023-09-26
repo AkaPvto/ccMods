@@ -1,0 +1,11 @@
+{
+	"Name": "Lumps Tooltip Info",
+	"ID": "lumpsTooltipInfo",
+	"Author": "AkaPvto",
+	"Description": "The information of the sugar lump type will always be displayed in the tooltip",
+	"ModVersion": 1,
+	"GameVersion": 2.052,
+	"Date": "26/09/2023",
+	"Dependencies": [],
+	"Disabled": 1
+}
