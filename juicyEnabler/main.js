@@ -2,7 +2,7 @@ Game.registerMod("juicyEnabler",{//this string needs to match the ID provided in
 	init:function(){
 		//this function is called as soon as the mod is registered
 		//declare hooks here
-		if(!Game.Objects['Farm'].minigame.plants['queenbeetLump'].plantable){
+		if(Game.Objects['Farm'].level > 0 && !Game.Objects['Farm'].minigame.plants['queenbeetLump'].plantable){
 			Game.Objects['Farm'].minigame.plants['queenbeetLump'].plantable = true;
 		}
 		
